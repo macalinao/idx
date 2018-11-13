@@ -1,6 +1,6 @@
 {
   "name": "@simplyianm/babel-plugin-idx",
-  "version": "2.4.1",
+  "version": "2.4.2",
   "description": "Babel plugin for transforming the idx utility function.",
   "main": "lib/babel-plugin-idx.js",
   "files": [
